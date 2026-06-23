@@ -12,7 +12,7 @@ https://github.com/technogirdher/color-switch-game
 ---
 
 ## 🚀 Features
-- Smooth **gravity-based jumping**
+- Smooth **gravity-based jumping**xdxdxxdx
 - **Dynamic rotating obstacles**
 - Increasing difficulty as score increases
 - **Keyboard + Mobile touch support**
